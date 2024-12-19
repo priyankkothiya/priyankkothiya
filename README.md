@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Priyank Kothiya | 29 yo**
+**Priyank Kothiya | 29 year**
 
 - 💻 I'm an entrepreneur and work as a front-end and freelance fullstack developer
 - 🚀 Currently studying new technologies such as ReactJS and ReactNative
