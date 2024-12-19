@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 **Priyank Kothiya | Software Engineer**
 
